@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background: url('BGRND.jpg');
+  background: url('images/BGRND.jpg');
   background-size: cover;
   position: relative;
   min-height: 100vh;
